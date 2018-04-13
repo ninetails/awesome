@@ -2,4 +2,5 @@
 
 ## Sub Awesomes
 
-* JavaScript
+* [JavaScript](javascript/index.md)
+  * [Node.js](javascript/node.md)
