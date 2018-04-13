@@ -1,6 +1,6 @@
 # Programming/Frontend
 
-## Subjects
+## Content
 
 ### Site Optimization
 

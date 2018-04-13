@@ -9,3 +9,4 @@ I did this to compile all awesomes into one single repo
   * [Frontend](https://github.com/ninetails/awesome/blob/master/programming/frontend.md)
   * [JavaScript](https://github.com/ninetails/awesome/blob/master/programming/JavaScript/index.md)
     * [Node.js](https://github.com/ninetails/awesome/blob/master/programming/JavaScript/node.md)
+    * [React](https://github.com/ninetails/awesome/blob/master/programming/JavaScript/react.md)

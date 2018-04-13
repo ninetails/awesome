@@ -3,13 +3,15 @@
 ## Sub Awesomes
 
 * [Node.js](node.md)
+* [React](react.md)
 
 ## Table of Contents
 
 * [Async/Await](#asyncawait)
 * [Functional JavaScript](#functional-javascript)
+* [Native Browser API](#native-browser-api)
 
-## Subjects
+## Content
 
 ### Async/Await
 
@@ -18,3 +20,7 @@
 ### Functional JavaScript
 
 * **[Functional JavaScript: Function Decorators Part 2](https://hackernoon.com/function-decorators-part-2-javascript-fadd24e57f83)**, by [Joel Thoms](https://hackernoon.com/@joelthoms)
+
+### Native Browser API
+
+* **[The Page Visibility API](https://blog.campvanilla.com/the-page-visibility-api-24532b2f5ea2)**, by [Abinav Seelan](https://blog.campvanilla.com/@abinavseelan)
