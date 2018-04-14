@@ -10,6 +10,7 @@
 * [Async/Await](#asyncawait)
 * [Functional JavaScript](#functional-javascript)
 * [Native Browser API](#native-browser-api)
+* [Other Frameworks/Libs](#other-frameworkslibs)
 
 ## Content
 
@@ -24,3 +25,9 @@
 ### Native Browser API
 
 * **[The Page Visibility API](https://blog.campvanilla.com/the-page-visibility-api-24532b2f5ea2)**, by [Abinav Seelan](https://blog.campvanilla.com/@abinavseelan)
+* **[Please Stop using Local Storage](https://dev.to/rdegges/please-stop-using-local-storage-1i04)**, by [Randall Degges](https://dev.to/rdegges)
+
+### Other Frameworks/Libs
+
+* **[AppRun](https://github.com/yysun/apprun)** - AppRun is a 3K library for developing applications using the elm architecture, events and components.
+  * **[Building Applications with AppRun](https://medium.com/@yiyisun/building-applications-with-apprun-d103cd461bae)**, by [Yiyi Sun](https://medium.com/@yiyisun)
