@@ -21,6 +21,11 @@
 ### Functional JavaScript
 
 * **[Functional JavaScript: Function Decorators Part 2](https://hackernoon.com/function-decorators-part-2-javascript-fadd24e57f83)**, by [Joel Thoms](https://hackernoon.com/@joelthoms)
+* **[Functional Programming: Alternatives to the IF](https://hackernoon.com/functional-programming-alternatives-to-the-if-functional-javascript-8804905db43e)**, by [Joel Thoms](https://hackernoon.com/@joelthoms)
+
+### Microfrontend
+
+* **[Building Microfrontends Part I — Creating small apps](https://medium.com/@_rchaves_/building-microfrontends-part-i-creating-small-apps-710d709b48b7)**, by [Rogério Chaves](https://medium.com/@_rchaves_)
 
 ### Native Browser API
 
@@ -31,3 +36,7 @@
 
 * **[AppRun](https://github.com/yysun/apprun)** - AppRun is a 3K library for developing applications using the elm architecture, events and components.
   * **[Building Applications with AppRun](https://medium.com/@yiyisun/building-applications-with-apprun-d103cd461bae)**, by [Yiyi Sun](https://medium.com/@yiyisun)
+
+### Template Literals
+
+* **[Tagged Template literals — Its more than you think](https://codeburst.io/javascript-es6-tagged-template-literals-a45c26e54761)**, by [Bharathvaj Ganesan](https://codeburst.io/@bharath95)

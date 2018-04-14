@@ -2,6 +2,12 @@
 
 ## Content
 
+### IDE
+
+#### VS Code
+
+* **[Introducing React Food Truck](https://burkeknowswords.com/introducing-react-food-truck-b23ea1e2cf79)**, by [Burke Holland](https://burkeknowswords.com/@burkeholland)
+
 ### SSR
 
 * **[Demystifying server-side rendering in React](https://medium.freecodecamp.org/demystifying-reacts-server-side-render-de335d408fe4)**, by [Alex Moldovan](https://medium.freecodecamp.org/@alexnm)
