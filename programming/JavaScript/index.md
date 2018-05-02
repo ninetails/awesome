@@ -19,6 +19,7 @@
 ### Async/Await
 
 * **[async / await in JavaScript - What, Why and How](https://youtu.be/568g8hxJJp4)**, by [mpj (Fun Fun Function)](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+* **[How to escape async/await hell](https://www.codementor.io/adityaagarwal/how-to-escape-async-await-hell-ix0jkaeh2)**, by [Aditya Agarwal](https://www.codementor.io/adityaagarwal)
 
 ### Functional JavaScript
 
