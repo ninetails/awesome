@@ -11,6 +11,8 @@
 * [Functional JavaScript](#functional-javascript)
 * [Native Browser API](#native-browser-api)
 * [Other Frameworks/Libs](#other-frameworkslibs)
+* [PubSub](#pubsub)
+* [Template Literals](#template-literals)
 
 ## Content
 
@@ -36,6 +38,10 @@
 
 * **[AppRun](https://github.com/yysun/apprun)** - AppRun is a 3K library for developing applications using the elm architecture, events and components.
   * **[Building Applications with AppRun](https://medium.com/@yiyisun/building-applications-with-apprun-d103cd461bae)**, by [Yiyi Sun](https://medium.com/@yiyisun)
+
+### PubSub
+
+* **[Communication Between Independent Components in React using PubSubJS](https://anthonymineo.com/communication-between-independent-components-in-react-using-pubsubjs/)**, by [Anthony Mineo](https://anthonymineo.com/author/anthony/)
 
 ### Template Literals
 
