@@ -40,10 +40,6 @@
 * **[AppRun](https://github.com/yysun/apprun)** - AppRun is a 3K library for developing applications using the elm architecture, events and components.
   * **[Building Applications with AppRun](https://medium.com/@yiyisun/building-applications-with-apprun-d103cd461bae)**, by [Yiyi Sun](https://medium.com/@yiyisun)
 
-### Packages
-
-* **[Prepack](https://prepack.io/)** - Prepack is a tool that optimizes JavaScript source code: Computations that can be done at compile-time instead of run-time get eliminated. Prepack replaces the global code of a JavaScript bundle with equivalent code that is a simple sequence of assignments. This gets rid of most intermediate computations and object allocations.
-
 ### PubSub
 
 * **[Communication Between Independent Components in React using PubSubJS](https://anthonymineo.com/communication-between-independent-components-in-react-using-pubsubjs/)**, by [Anthony Mineo](https://anthonymineo.com/author/anthony/)
