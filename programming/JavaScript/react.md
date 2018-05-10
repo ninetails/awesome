@@ -18,6 +18,10 @@
   * **[redux-immutable-state-invariant](https://github.com/leoasis/redux-immutable-state-invariant)** - Redux middleware that detects mutations between and outside redux dispatches. For development use only.
   * **[redux-diff-logger](https://github.com/evgenyrodionov/redux-diff-logger)** - Diff logger between states for redux
 
+### Render Props
+
+* **[Compose render prop components with React Adopt](https://egghead.io/lessons/react-compose-render-prop-components-with-react-adopt)**, by [Andrew Del Prete](https://egghead.io/instructors/andrew-del-prete)
+
 ### State management
 
 * **[Unstated](https://github.com/jamiebuilds/unstated)** - State so simple, it goes without saying
