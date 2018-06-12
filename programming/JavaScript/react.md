@@ -30,6 +30,10 @@
 
 * **[Unstated](https://github.com/jamiebuilds/unstated)** - State so simple, it goes without saying
 
+### Suspense
+
+* **[React Suspense](https://youtu.be/eRvbh5C6Lj0)**, on ReactNYC by Shawn Wang
+
 ### Web Component
 
 * **[A little Web Component in my React](https://itnext.io/a-little-web-component-in-my-react-3c66a918ea99)**, by [Edward Irby](https://itnext.io/@edwardirby)
