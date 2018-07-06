@@ -42,6 +42,7 @@
 ### Optimization
 
 * **[I dropped 95% of my Firebase bundle size using this one weird trick](https://davidea.st/articles/firebase-bundle-size)**, by [David East](https://davidea.st/)
+* **[JavaScript Essentials: The Engine](https://www.rainerhahnekamp.com/en/javascript-essentials-the-engine/)**, by [Rainer Hahnekamp](https://www.rainerhahnekamp.com/)
 
 ### Other Frameworks/Libs
 
