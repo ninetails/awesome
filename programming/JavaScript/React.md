@@ -17,6 +17,8 @@
 * **[Top React and Redux Packages for Faster Development](https://codeburst.io/top-react-and-redux-packages-for-faster-development-5fa0ace42fe7)**, by [Arfat Salman](https://codeburst.io/@arfatsalman)
   * **[redux-immutable-state-invariant](https://github.com/leoasis/redux-immutable-state-invariant)** - Redux middleware that detects mutations between and outside redux dispatches. For development use only.
   * **[redux-diff-logger](https://github.com/evgenyrodionov/redux-diff-logger)** - Diff logger between states for redux
+* **[39 weekly most popular JavaScript repositories](https://itnext.io/39-most-popular-javascript-open-source-projects-on-github-june-2018-bae92be1a886)**, by [Iren Korkishko](https://itnext.io/@Iren.Korkishko)
+  * **[react-ideal-image](https://github.com/stereobooster/react-ideal-image)** - An Almost Ideal React Image Component (is an adaptive image component that asynchronously loads images, which will adapt based on network, which will allow a user to control, which image to load)
 
 ### Performance
 

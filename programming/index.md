@@ -4,9 +4,9 @@
 
 * [Frontend](frontend.md)
 * [JavaScript](javascript/index.md)
-  * [Node.js](javascript/node.md)
-  * [React](javascript/react.md)
-* [Webpack](javascript/webpack.md)
+  * [Node.js](javascript/Node.md)
+  * [React](javascript/React.md)
+* [Webpack](Webpack.md)
 
 ## Contents
 

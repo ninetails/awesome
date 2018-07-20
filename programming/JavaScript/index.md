@@ -2,15 +2,21 @@
 
 ## Sub Awesomes
 
-* [Node.js](node.md)
-* [React](react.md)
+* [Node.js](Node.md)
+* [Packages](Packages.md)
+* [React](React.md)
+* [Reason](Reason.md)
 
 ## Table of Contents
 
 * [Async/Await](#asyncawait)
 * [Functional JavaScript](#functional-javascript)
+* [Machine Learning](#machine-learning)
+* [Microfrontend](#microfrontend)
 * [Native Browser API](#native-browser-api)
+* [Optimization](#optimization)
 * [Other Frameworks/Libs](#other-frameworkslibs)
+* [Proxy](#proxy)
 * [PubSub](#pubsub)
 * [Template Literals](#template-literals)
 
