@@ -49,6 +49,10 @@
 
 * **[PulltoRefresh.js](https://github.com/BoxFactura/pulltorefresh.js)** - A quick and powerful plugin for your pull-to-refresh needs in your webapp.
 
+## Node
+
+* **[ndb](https://github.com/GoogleChromeLabs/ndb)** - ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools
+
 ## Packaging
 
 * **[Minipack](https://github.com/ronami/minipack)** - A simplified example of a modern module bundler written in JavaScript
