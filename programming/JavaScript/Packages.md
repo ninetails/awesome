@@ -1,6 +1,6 @@
 # Packages
 
-## Article
+## Articles
 
 * **[39 weekly most popular JavaScript repositories](https://itnext.io/39-most-popular-javascript-open-source-projects-on-github-june-2018-bae92be1a886)**, by [Iren Korkishko](https://itnext.io/@Iren.Korkishko)
 
@@ -56,6 +56,10 @@
 ## Packaging
 
 * **[Minipack](https://github.com/ronami/minipack)** - A simplified example of a modern module bundler written in JavaScript
+
+## Site Optimization
+
+* **[Lighthouse](https://github.com/GoogleChrome/lighthouse)** - Auditing, performance metrics, and best practices for Progressive Web Apps
 
 ## State management
 
