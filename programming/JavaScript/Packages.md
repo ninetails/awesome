@@ -53,6 +53,11 @@
 
 * **[PulltoRefresh.js](https://github.com/BoxFactura/pulltorefresh.js)** - A quick and powerful plugin for your pull-to-refresh needs in your webapp.
 
+## Mono repo
+
+* **[Lerna](https://github.com/lerna/lerna)** - A tool for managing JavaScript projects with multiple packages.
+* **[meta](https://github.com/mateodelnorte/meta)** - tool for turning many repos into a meta repo. why choose many repos or a monolithic repo, when you can have both with a meta repo?
+
 ## Node
 
 * **[ndb](https://github.com/GoogleChromeLabs/ndb)** - ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools
