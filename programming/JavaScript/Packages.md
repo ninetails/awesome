@@ -27,7 +27,11 @@
 
 ## Fetch API
 
-* **[Awaity.js](https://github.com/asfktz/Awaity.js)** A functional, lightweight alternative to bluebird.js, built with async / await in mind.
+* **[Awaity.js](https://github.com/asfktz/Awaity.js)** - A functional, lightweight alternative to bluebird.js, built with async / await in mind.
+
+## Linters
+
+* **[html-validate](https://www.npmjs.com/package/html-validate)** - Offline HTML5 validator. Validates either a full document or a smaller (incomplete) template, e.g. from an AngularJS or React component.
 
 ## LocalStorage
 
@@ -52,6 +56,7 @@
 ## Node
 
 * **[ndb](https://github.com/GoogleChromeLabs/ndb)** - ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools
+* **[npm-check](https://github.com/dylang/npm-check)** - Check for outdated, incorrect, and unused dependencies.
 
 ## Packaging
 
