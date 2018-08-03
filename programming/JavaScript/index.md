@@ -36,6 +36,10 @@
 * **[Functional JavaScript: Function Decorators Part 2](https://hackernoon.com/function-decorators-part-2-javascript-fadd24e57f83)**, by [Joel Thoms](https://hackernoon.com/@joelthoms)
 * **[Functional Programming: Alternatives to the IF](https://hackernoon.com/functional-programming-alternatives-to-the-if-functional-javascript-8804905db43e)**, by [Joel Thoms](https://hackernoon.com/@joelthoms)
 
+### Intl
+
+* **[Introdução a Intl API](https://medium.com/@guuibayer/introdu%C3%A7%C3%A3o-a-intl-api-b13b5f6bef54)** [PT-BR], by [Guilherme Bayer](https://medium.com/@guuibayer)
+
 ### Machine Learning
 
 * **[Introducing Guess.js - a toolkit for enabling data-driven user-experiences on the Web](http://blog.mgechev.com/2018/05/09/introducing-guess-js-data-driven-user-experiences-web/)**, by [Minko Gechev](http://blog.mgechev.com/)
