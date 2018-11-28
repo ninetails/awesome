@@ -1,6 +1,6 @@
 # Packages
 
-## Articles
+## Compilation
 
 * **[39 weekly most popular JavaScript repositories](https://itnext.io/39-most-popular-javascript-open-source-projects-on-github-june-2018-bae92be1a886)**, by [Iren Korkishko](https://itnext.io/@Iren.Korkishko)
 
@@ -67,6 +67,10 @@
 ## Packaging
 
 * **[Minipack](https://github.com/ronami/minipack)** - A simplified example of a modern module bundler written in JavaScript
+
+## React Suspense
+
+* **[Hitchcock](https://github.com/pomber/hitchcock)** - The Master of Suspense 🍿
 
 ## Site Optimization
 
