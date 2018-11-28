@@ -1,4 +1,4 @@
-# Reason
+# ReasonML
 
 <!-- prettier-ignore-start -->
 <!-- TOC depthFrom:3 -->
