@@ -4,6 +4,7 @@
 
 ## Sub Awesomes
 
+* [Functional Programming](Functional.md)
 * [Node.js](Node.md)
 * [Packages](Packages.md)
 * [React](React.md)
@@ -15,7 +16,7 @@
 
 - [Async/Await](#asyncawait)
 - [Books](#books)
-- [Functional JavaScript](#functional-javascript)
+- [Frameworks](#frameworks)
 - [Intl](#intl)
 - [Machine Learning](#machine-learning)
 - [Microfrontend](#microfrontend)
@@ -25,6 +26,7 @@
 - [Proxy](#proxy)
 - [PubSub](#pubsub)
 - [Template Literals](#template-literals)
+- [WebWorkers](#webworkers)
 
 <!-- /TOC -->
 <!-- prettier-ignore-end -->
@@ -40,10 +42,9 @@
 
 - **[You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)**
 
-### Functional JavaScript
+### Frameworks
 
-- **[Functional JavaScript: Function Decorators Part 2](https://hackernoon.com/function-decorators-part-2-javascript-fadd24e57f83)**, by [Joel Thoms](https://hackernoon.com/@joelthoms)
-- **[Functional Programming: Alternatives to the IF](https://hackernoon.com/functional-programming-alternatives-to-the-if-functional-javascript-8804905db43e)**, by [Joel Thoms](https://hackernoon.com/@joelthoms)
+- **[The Virtual DOM is slow. Meet the Memoized DOM.](https://medium.freecodecamp.org/the-virtual-dom-is-slow-meet-the-memoized-dom-bb19f546cc52)**, by [Sindre Osen Aarsaether](https://medium.freecodecamp.org/@sindreaars)
 
 ### Intl
 
@@ -84,3 +85,7 @@
 ### Template Literals
 
 - **[Tagged Template literals — Its more than you think](https://codeburst.io/javascript-es6-tagged-template-literals-a45c26e54761)**, by [Bharathvaj Ganesan](https://codeburst.io/@bharath95)
+
+### WebWorkers
+
+- **[Parallel programming in JavaScript](https://itnext.io/achieving-parallelism-in-javascript-using-web-workers-8f921f2d26db)**, by [Uday Hiwarale](https://itnext.io/@thatisuday)

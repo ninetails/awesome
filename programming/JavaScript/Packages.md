@@ -10,6 +10,7 @@
 - [Editors](#editors)
 - [Electron Apps](#electron-apps)
 - [Fetch API](#fetch-api)
+- [Functional Programming](#functional-programming)
 - [Linters](#linters)
 - [LocalStorage](#localstorage)
 - [Math](#math)
@@ -49,6 +50,7 @@
 ## Documentation
 
 - **[Docz](https://github.com/pedronauck/docz/)** - "It has never been so easy to document your things!"
+- **[React Styleguidist](https://github.com/styleguidist/react-styleguidist)** - Isolated React component development environment with a living style guide <https://react-styleguidist.js.org/>
 
 ## Editors
 
@@ -61,6 +63,10 @@
 ## Fetch API
 
 - **[Awaity.js](https://github.com/asfktz/Awaity.js)** - A functional, lightweight alternative to bluebird.js, built with async / await in mind.
+
+## Functional Programming
+
+- **[mori](http://swannodette.github.io/mori/)** - ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript <http://swannodette.github.io/mori>
 
 ## Linters
 
@@ -142,4 +148,5 @@
 
 - **[comlink](https://github.com/GoogleChromeLabs/comlink)** - Comlink makes WebWorkers enjoyable.
   - **[comlink-loader](https://github.com/GoogleChromeLabs/comlink-loader)** - Webpack loader to offload modules to Worker threads seamlessly using Comlink.
+- **[webpack-plugin-serve](https://github.com/shellscape/webpack-plugin-serve/)** - A Development Server in a Webpack Plugin <http://shellscape.org>
 - **[Webpackbar](https://github.com/nuxt/webpackbar)** Elegant ProgressBar and Profiler for Webpack 3 and 4

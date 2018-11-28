@@ -24,6 +24,7 @@
 ### Random
 
 - **[Addy Osmani's AMA](https://dev.to/addyosmani/im-addy-osmani-ask-me-anything-596c/comments)**
+- **[The curious case of performance testing setTimeout(0)](https://medium.freecodecamp.org/the-curious-case-of-performance-testing-settimeout-0-347059a28acf)**, by [Netta Bondy](https://medium.freecodecamp.org/@NettaB)
 
 ### Functional Programming
 

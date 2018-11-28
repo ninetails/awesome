@@ -44,6 +44,7 @@
 ### Performance
 
 - **[React is Slow, React is Fast: Optimizing React Apps in Practice](https://medium.com/dailyjs/react-is-slow-react-is-fast-optimizing-react-apps-in-practice-394176a11fba)**, by [François Zaninotto](https://medium.com/@francoisz)
+- **[Optimizing React App performance using Web Workers](https://medium.com/prolanceer/optimizing-react-app-performance-using-web-workers-79266afd4a7)**, by [Rohan Bagchi](https://medium.com/@rohanbagchi)
 
 ### Render Props
 
