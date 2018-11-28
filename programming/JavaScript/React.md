@@ -2,6 +2,10 @@
 
 ## Content
 
+### Concurrent Rendering
+
+* **[How to Try Out ConcurrentMode today](https://github.com/sw-yx/fresh-concurrent-react)**, by [Shawn Wang](https://github.com/sw-yx)
+
 ### IDE
 
 #### VS Code
