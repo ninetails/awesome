@@ -62,6 +62,7 @@
 
 * **[ndb](https://github.com/GoogleChromeLabs/ndb)** - ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools
 * **[npm-check](https://github.com/dylang/npm-check)** - Check for outdated, incorrect, and unused dependencies.
+* **[hotrun](https://github.com/yessky/hotrun)** - hot module compile for node app, no need to restart server. it's useful to speed-up node.js development
 
 ## Packaging
 
