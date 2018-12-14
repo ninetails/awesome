@@ -37,6 +37,7 @@
 ## Compilation
 
 - **[39 weekly most popular JavaScript repositories](https://itnext.io/39-most-popular-javascript-open-source-projects-on-github-june-2018-bae92be1a886)**, by [Iren Korkishko](https://itnext.io/@Iren.Korkishko)
+- **[32 monthly most popular JavaScript open source projects on GitHub](https://itnext.io/32-monthly-most-popular-javascript-open-source-projects-on-github-559bfc71e17d)**, by [Iren Korkishko](https://itnext.io/@Iren.Korkishko)
 
 ## Code Optimization
 
