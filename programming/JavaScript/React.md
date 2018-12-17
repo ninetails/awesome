@@ -27,6 +27,7 @@
 ### Courses
 
 - **[GraphQL Data in React with Apollo Client](https://egghead.io/courses/graphql-data-in-react-with-apollo-client)**, by [Nik Graf](https://egghead.io/instructors/nik-graf)
+- **[Progressive Web Apps in React with create-react-app](https://egghead.io/courses/progressive-web-apps-in-react-with-create-react-app)**, by [Chris Achard](https://egghead.io/instructors/chris-achard)
 - **[Simplify React Apps with React Hooks](https://egghead.io/courses/simplify-react-apps-with-react-hooks)**, by [Kent C. Dodds](https://egghead.io/instructors/kentcdodds)
 
 ### IDE
