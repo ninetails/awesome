@@ -4,6 +4,7 @@
 <!-- TOC depthFrom:3 -->
 
 - [Concurrent Rendering](#concurrent-rendering)
+- [Courses](#courses)
 - [IDE](#ide)
   - [VS Code](#vs-code)
 - [SSR](#ssr)
@@ -22,6 +23,11 @@
 ### Concurrent Rendering
 
 - **[How to Try Out ConcurrentMode today](https://github.com/sw-yx/fresh-concurrent-react)**, by [Shawn Wang](https://github.com/sw-yx)
+
+### Courses
+
+- **[GraphQL Data in React with Apollo Client](https://egghead.io/courses/graphql-data-in-react-with-apollo-client)**, by [Nik Graf](https://egghead.io/instructors/nik-graf)
+- **[Simplify React Apps with React Hooks](https://egghead.io/courses/simplify-react-apps-with-react-hooks)**, by [Kent C. Dodds](https://egghead.io/instructors/kentcdodds)
 
 ### IDE
 
