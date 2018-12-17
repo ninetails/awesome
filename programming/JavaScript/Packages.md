@@ -20,6 +20,7 @@
 - [Mono repo](#mono-repo)
 - [Node](#node)
 - [Packaging](#packaging)
+- [Productivity](#productivity)
 - [React](#react)
   - [Optimization](#optimization)
   - [Suspense](#suspense)
@@ -52,6 +53,7 @@
 
 - **[Docz](https://github.com/pedronauck/docz/)** - "It has never been so easy to document your things!"
 - **[React Styleguidist](https://github.com/styleguidist/react-styleguidist)** - Isolated React component development environment with a living style guide <https://react-styleguidist.js.org/>
+- **[unified](https://github.com/unifiedjs/unified)** - friendly interface backed by an ecosystem of plugins built for creating and manipulating content <https://unified.js.org/>
 
 ## Editors
 
@@ -108,6 +110,10 @@
 ## Packaging
 
 - **[Minipack](https://github.com/ronami/minipack)** - A simplified example of a modern module bundler written in JavaScript
+
+## Productivity
+
+- **[Taskbook](https://github.com/klaussinani/taskbook)** - Tasks, boards & notes for the command-line habitat
 
 ## React
 
