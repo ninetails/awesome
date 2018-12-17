@@ -24,6 +24,7 @@
 - [React](#react)
   - [Optimization](#optimization)
   - [Suspense](#suspense)
+- [Server Side Rendering](#server-side-rendering)
 - [Site Optimization](#site-optimization)
 - [State management](#state-management)
 - [Task Runner](#task-runner)
@@ -124,6 +125,10 @@
 ### Suspense
 
 - **[Hitchcock](https://github.com/pomber/hitchcock)** - The Master of Suspense 🍿
+
+## Server Side Rendering
+
+- **[Hypernova](https://github.com/airbnb/hypernova)** - A service for server-side rendering your JavaScript views (airbnb)
 
 ## Site Optimization
 
