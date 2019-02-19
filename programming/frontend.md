@@ -3,6 +3,7 @@
 <!-- prettier-ignore-start -->
 <!-- TOC depthFrom:3 -->
 
+- [Best Practices](#best-practices)
 - [Checklists](#checklists)
 - [Site Optimization](#site-optimization)
 
@@ -10,6 +11,10 @@
 <!-- prettier-ignore-end -->
 
 ## Content
+
+### Best Practices
+
+- [About rel=noopener](https://mathiasbynens.github.io/rel-noopener/), by [@mathias](https://twitter.com/mathias)
 
 ### Checklists
 
