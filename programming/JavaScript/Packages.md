@@ -122,6 +122,10 @@
 
 - **[react-ideal-image](https://github.com/stereobooster/react-ideal-image)** - An Almost Ideal React Image Component (is an adaptive image component that asynchronously loads images, which will adapt based on network, which will allow a user to control, which image to load)
 
+### Routing
+
+- **[router5](https://router5.js.org/)** - Flexible and powerful universal routing solution
+
 ### Suspense
 
 - **[Hitchcock](https://github.com/pomber/hitchcock)** - The Master of Suspense 🍿
