@@ -19,3 +19,7 @@
 ### Prefetch/Preload
 
 - **[&lt;link rel=”prefetch/preload”&gt; in webpack](https://medium.com/webpack/link-rel-prefetch-preload-in-webpack-51a52358f84c)**, by [Tobias Koppers](https://medium.com/@sokra)
+
+### PWA
+
+- **[How to write simple modern JavaScript apps with Webpack and progressive web techniques](https://morioh.com/p/e941b22aa736/how-to-write-simple-modern-javascript-apps-with-webpack-and-progressive-web-techniques)**, by [Michael Bryan](https://morioh.com/@MichaelBryan/posts)
