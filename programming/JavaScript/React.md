@@ -7,10 +7,10 @@
 - [Courses](#courses)
 - [IDE](#ide)
   - [VS Code](#vs-code)
-- [SSR](#ssr)
 - [Packages](#packages)
 - [Performance](#performance)
 - [Render Props](#render-props)
+- [SSR](#ssr)
 - [State management](#state-management)
 - [Suspense](#suspense)
 - [Web Component](#web-component)
@@ -30,15 +30,15 @@
 - **[Progressive Web Apps in React with create-react-app](https://egghead.io/courses/progressive-web-apps-in-react-with-create-react-app)**, by [Chris Achard](https://egghead.io/instructors/chris-achard)
 - **[Simplify React Apps with React Hooks](https://egghead.io/courses/simplify-react-apps-with-react-hooks)**, by [Kent C. Dodds](https://egghead.io/instructors/kentcdodds)
 
+### Documentation
+
+- **[Automating React Documentation using React-Docgen](https://medium.com/@whoisryosuke/automating-react-documentation-using-react-docgen-%EF%B8%8F-3e1b2e2b0c0b)**, by [Ryosuke](https://medium.com/@whoisryosuke)
+
 ### IDE
 
 #### VS Code
 
 - **[Introducing React Food Truck](https://burkeknowswords.com/introducing-react-food-truck-b23ea1e2cf79)**, by [Burke Holland](https://burkeknowswords.com/@burkeholland)
-
-### SSR
-
-- **[Demystifying server-side rendering in React](https://medium.freecodecamp.org/demystifying-reacts-server-side-render-de335d408fe4)**, by [Alex Moldovan](https://medium.freecodecamp.org/@alexnm)
 
 ### Packages
 
@@ -53,9 +53,17 @@
 - **[React is Slow, React is Fast: Optimizing React Apps in Practice](https://medium.com/dailyjs/react-is-slow-react-is-fast-optimizing-react-apps-in-practice-394176a11fba)**, by [François Zaninotto](https://medium.com/@francoisz)
 - **[Optimizing React App performance using Web Workers](https://medium.com/prolanceer/optimizing-react-app-performance-using-web-workers-79266afd4a7)**, by [Rohan Bagchi](https://medium.com/@rohanbagchi)
 
+### PWA
+
+- **[Cache GraphQL POST requests with Service Worker](https://medium.com/@jono/cache-graphql-post-requests-with-service-worker-100a822a388a)**, by [Jonathan Chen](https://medium.com/@jono)
+
 ### Render Props
 
 - **[Compose render prop components with React Adopt](https://egghead.io/lessons/react-compose-render-prop-components-with-react-adopt)**, by [Andrew Del Prete](https://egghead.io/instructors/andrew-del-prete)
+
+### SSR
+
+- **[Demystifying server-side rendering in React](https://medium.freecodecamp.org/demystifying-reacts-server-side-render-de335d408fe4)**, by [Alex Moldovan](https://medium.freecodecamp.org/@alexnm)
 
 ### State management
 
