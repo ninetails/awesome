@@ -111,6 +111,7 @@
 ## Packaging
 
 - **[Minipack](https://github.com/ronami/minipack)** - A simplified example of a modern module bundler written in JavaScript
+- **[A Future Without Webpack](https://www.pikapkg.com/blog/pika-web-a-future-without-webpack/)**
 
 ## Productivity
 
