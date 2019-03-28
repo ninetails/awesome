@@ -1,5 +1,10 @@
 # Design
 
+## Background
+
+- **[particles.js](https://vincentgarreau.com/particles.js/)**
+- **[SVG Backgrounds](https://www.svgbackgrounds.com/)**
+
 ## Checklists
 
 - **[Checklist Design](https://www.checklist.design/)**
