@@ -42,6 +42,11 @@
 
 - **[You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)**
 
+### Build
+
+- **[How to write and build JS libraries in 2018](https://medium.com/@kelin2025/so-you-wanna-use-es6-modules-714f48b3a953)**, by [Anton Kosykh](https://medium.com/@kelin2025)
+- **[Building and publishing a module with TypeScript and Rollup.js](https://hackernoon.com/building-and-publishing-a-module-with-typescript-and-rollup-js-faa778c85396)**, by [Gerard O'Neill](https://hackernoon.com/@GRardB)
+
 ### Frameworks
 
 - **[The Virtual DOM is slow. Meet the Memoized DOM.](https://medium.freecodecamp.org/the-virtual-dom-is-slow-meet-the-memoized-dom-bb19f546cc52)**, by [Sindre Osen Aarsaether](https://medium.freecodecamp.org/@sindreaars)
