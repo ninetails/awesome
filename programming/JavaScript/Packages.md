@@ -16,6 +16,7 @@
 - [Math](#math)
 - [Messaging](#messaging)
 - [Microfrontend](#microfrontend)
+- [Microlibraries](#microlibraries)
 - [Mobile](#mobile)
 - [Mono repo](#mono-repo)
 - [Node](#node)
@@ -92,6 +93,16 @@
 ## Microfrontend
 
 - **[Tailor](https://github.com/zalando/tailor)** - A streaming layout service for front-end microservices
+
+## Microlibraries
+
+- **[ifvisible.js](https://github.com/serkanyersen/ifvisible.js)** - Crossbrowser & lightweight way to check if user is looking at the page or interacting with it. - http://serkanyersen.github.com/ifvisible.js/
+- **[Pill](https://github.com/rumkin/pill)** - Add dynamic content loading to static sites with only 1 KiB of JS - https://rumkin.github.io/pill/
+- **[Topbar](https://github.com/buunguyen/topbar)** - Tiny & beautiful site-wide progress indicator - http://buunguyen.github.io/topbar/
+- **[Wade](https://github.com/kbrsh/wade)** - :ocean: Blazing fast 1kb search library
+- **[RE:DOM](https://github.com/redom/redom)** - Tiny (2 KB) turboboosted JavaScript library for creating user interfaces. - https://redom.js.org
+
+> [Source](https://www.reddit.com/r/learnjavascript/comments/b8174f/5_awesome_javascript_libraries_under_1kb/)
 
 ## Mobile
 
