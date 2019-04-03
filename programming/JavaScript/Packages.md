@@ -133,6 +133,7 @@
 ### Optimization
 
 - **[react-ideal-image](https://github.com/stereobooster/react-ideal-image)** - An Almost Ideal React Image Component (is an adaptive image component that asynchronously loads images, which will adapt based on network, which will allow a user to control, which image to load)
+- **[react-progressive-image](https://github.com/FormidableLabs/react-progressive-image)** - React component for progressive image loading
 
 ### Routing
 
