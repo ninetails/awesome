@@ -27,6 +27,11 @@
 
 - **[Porto](https://github.com/Mahmoudz/Porto)** - Porto is a Modern Software Architectural Pattern.
 
+### Devops
+
+- **[Dokku](http://dokku.viewdocs.io/dokku/)** - The smallest PaaS implementation you've ever seen
+- :book: **[Your First Webpage Deployment With GitHub Pages](https://zerotocode.today/deployment)**
+
 ### Functional Programming
 
 - **[Goodbye, Object Oriented Programming](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53)**, by [Charles Scalfani](https://medium.com/@cscalfani)
