@@ -53,6 +53,7 @@
 
 ## Documentation
 
+- **[documentation.js](https://github.com/documentationjs/documentation)** - :book: documentation for modern JavaScript http://documentation.js.org/
 - **[Docz](https://github.com/pedronauck/docz/)** - "It has never been so easy to document your things!"
 - **[React Styleguidist](https://github.com/styleguidist/react-styleguidist)** - Isolated React component development environment with a living style guide <https://react-styleguidist.js.org/>
 - **[unified](https://github.com/unifiedjs/unified)** - friendly interface backed by an ecosystem of plugins built for creating and manipulating content <https://unified.js.org/>
