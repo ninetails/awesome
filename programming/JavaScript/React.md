@@ -60,6 +60,7 @@
 ### Render Props
 
 - **[Compose render prop components with React Adopt](https://egghead.io/lessons/react-compose-render-prop-components-with-react-adopt)**, by [Andrew Del Prete](https://egghead.io/instructors/andrew-del-prete)
+- **[Support both Hooks and Render Props with One Simple Trick](https://americanexpress.io/hydra/)**, by [Donavon West](https://americanexpress.io/u/donavon/)
 
 ### SSR
 
