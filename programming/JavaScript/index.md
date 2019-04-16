@@ -79,6 +79,10 @@
 - **[AppRun](https://github.com/yysun/apprun)** - AppRun is a 3K library for developing applications using the elm architecture, events and components.
   - **[Building Applications with AppRun](https://medium.com/@yiyisun/building-applications-with-apprun-d103cd461bae)**, by [Yiyi Sun](https://medium.com/@yiyisun)
 
+### Others
+
+- **[Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)**, by [Jake Archibald](https://jakearchibald.com/)
+
 ### Proxy
 
 - **[Proxy, The new Javascript ES6 feature](https://www.atyantik.com/proxy-javascript-es6-feature/)**, by Yash Thakur
