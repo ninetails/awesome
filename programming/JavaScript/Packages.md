@@ -75,6 +75,10 @@
 
 - **[mori](http://swannodette.github.io/mori/)** - ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript <http://swannodette.github.io/mori>
 
+## Images (Browser)
+
+- **[medium-zoom](https://github.com/francoischalifour/medium-zoom)** - A JavaScript library for zooming images like Medium
+
 ## Linters
 
 - **[html-validate](https://www.npmjs.com/package/html-validate)** - Offline HTML5 validator. Validates either a full document or a smaller (incomplete) template, e.g. from an AngularJS or React component.
