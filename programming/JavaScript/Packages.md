@@ -46,6 +46,10 @@
 
 - **[Prepack](https://prepack.io/)** Prepack is a tool that optimizes JavaScript source code
 
+## CSS-in-JS
+
+- **[linaria](https://github.com/callstack/linaria)** - Zero-runtime CSS in JS library https://linaria.now.sh
+
 ## Date & Time
 
 - **[DayJS](https://github.com/xx45/dayjs)** Fast 2kB alternative to Moment.js with the same modern API
