@@ -153,6 +153,10 @@
 
 - **[Hitchcock](https://github.com/pomber/hitchcock)** - The Master of Suspense 🍿
 
+## Server
+
+- **[Polka](https://github.com/lukeed/polka)** - A micro web server so fast, it'll make you dance!
+
 ## Server Side Rendering
 
 - **[Hypernova](https://github.com/airbnb/hypernova)** - A service for server-side rendering your JavaScript views (airbnb)
