@@ -14,7 +14,8 @@
 
 ### Best Practices
 
-- [About rel=noopener](https://mathiasbynens.github.io/rel-noopener/), by [@mathias](https://twitter.com/mathias)
+- **[About rel=noopener](https://mathiasbynens.github.io/rel-noopener/)**, by [@mathias](https://twitter.com/mathias)
+- **[re: Explain HTML's img srcset vs picture tag Like I'm Five ](https://dev.to/ben/comment/1lnd)**, by [Ben Halpern](https://dev.to/ben)
 
 ### Checklists
 
