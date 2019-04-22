@@ -133,6 +133,10 @@
 - **[npm-check](https://github.com/dylang/npm-check)** - Check for outdated, incorrect, and unused dependencies.
 - **[hotrun](https://github.com/yessky/hotrun)** - hot module compile for node app, no need to restart server. it's useful to speed-up node.js development
 
+## Other
+
+- **[reattempt](https://github.com/wsmd/reattempt)** - Give your functions another chance
+
 ## Packaging
 
 - **[Minipack](https://github.com/ronami/minipack)** - A simplified example of a modern module bundler written in JavaScript
