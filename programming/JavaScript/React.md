@@ -60,6 +60,7 @@ Starting here: https://twitter.com/dan_abramov/status/1120971795425832961?s=21
 
 - **[React is Slow, React is Fast: Optimizing React Apps in Practice](https://medium.com/dailyjs/react-is-slow-react-is-fast-optimizing-react-apps-in-practice-394176a11fba)**, by [François Zaninotto](https://medium.com/@francoisz)
 - **[Optimizing React App performance using Web Workers](https://medium.com/prolanceer/optimizing-react-app-performance-using-web-workers-79266afd4a7)**, by [Rohan Bagchi](https://medium.com/@rohanbagchi)
+- **[useRef() and Concurrent Mode: how to avoid shooting yourself in the foot](https://frontarm.com/daishi-kato/use-ref-in-concurrent-mode/)**, by [Daishi Kato](https://frontarm.com/daishi-kato/)
 
 ### PWA
 
