@@ -18,6 +18,14 @@
 <!-- /TOC -->
 <!-- prettier-ignore-end -->
 
+## Other Content
+
+### Tweets
+
+> Is Concurrent Mode just a workaround for “virtual DOM diffing” overhead? Some people got that impression. Let me clarify why we’re working on it. (Thread)
+
+Starting here: https://twitter.com/dan_abramov/status/1120971795425832961?s=21
+
 ## Content
 
 ### Concurrent Rendering
