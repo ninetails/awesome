@@ -74,6 +74,7 @@ Starting here: https://twitter.com/dan_abramov/status/1120971795425832961?s=21
 ### SSR
 
 - **[Demystifying server-side rendering in React](https://medium.freecodecamp.org/demystifying-reacts-server-side-render-de335d408fe4)**, by [Alex Moldovan](https://medium.freecodecamp.org/@alexnm)
+- **[Server side rendering react components as a service](https://medium.com/vrt-digital-studio/server-side-rendering-react-components-as-a-service-9d6b887cb02a)**, by [Wing Leung](https://medium.com/@wnglng)
 
 ### State management
 
