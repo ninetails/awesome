@@ -17,3 +17,7 @@
 ### Patterns
 
 - **[Unicode Patterns](https://yuanchuan.name/2018/05/06/unicode-patterns.html)** by [Yuan Chuan](https://yuanchuan.name/)
+
+### Reset
+
+- **[simple CSS preset with nice defaults](https://www.reddit.com/r/web_design/comments/7pkl5g/simple_css_preset_with_nice_defaults/)**, by [/u/julian88888888](https://www.reddit.com/user/julian88888888/) @ [/r/web_design](https://www.reddit.com/r/web_design/)
