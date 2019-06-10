@@ -12,6 +12,10 @@
 
 ## Content
 
+### Acessibility (a11y)
+
+- **[39 Accessibility Bookmarklets You Can Use For A11Y Testing](https://www.digitala11y.com/accessibility-bookmarklets-testing/)**, by [Raghavendra Satish Peri](https://www.digitala11y.com/author/digitala11y/)
+
 ### Best Practices
 
 - **[About rel=noopener](https://mathiasbynens.github.io/rel-noopener/)**, by [@mathias](https://twitter.com/mathias)
