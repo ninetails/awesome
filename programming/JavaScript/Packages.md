@@ -54,6 +54,10 @@
 
 - **[linaria](https://github.com/callstack/linaria)** - Zero-runtime CSS in JS library https://linaria.now.sh
 
+## Database
+
+- **[RxDB](https://github.com/pubkey/rxdb)** - A realtime Database for the Web
+
 ## Date & Time
 
 - **[DayJS](https://github.com/xx45/dayjs)** Fast 2kB alternative to Moment.js with the same modern API
