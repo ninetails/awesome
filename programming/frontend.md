@@ -15,6 +15,7 @@
 ### Acessibility (a11y)
 
 - **[39 Accessibility Bookmarklets You Can Use For A11Y Testing](https://www.digitala11y.com/accessibility-bookmarklets-testing/)**, by [Raghavendra Satish Peri](https://www.digitala11y.com/author/digitala11y/)
+- **[Creating An Accessible Modal Dialog](https://bitsofco.de/accessible-modal-dialog/)**
 
 ### Best Practices
 
